@@ -1,9 +1,12 @@
-__pycache__/
-*.pyc
+node_modules/
+out/
+dist/
+release/
+*.log
+*.tsbuildinfo
+bench-results.json
+
 .DS_Store
 Thumbs.db
-Portal Ambystoma/
-Simulador de óptica Ambystoma/
-AGENTS.md
-.agents/
-Old/
+__pycache__/
+*.pyc
